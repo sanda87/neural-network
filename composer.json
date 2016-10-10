@@ -1,0 +1,16 @@
+{
+    "name": "sanda87/neural-network",
+    "description": "An example of a neural network",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Andrey Dushinov",
+            "email": "sanda87@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
